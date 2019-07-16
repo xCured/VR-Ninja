@@ -28,7 +28,7 @@ Simply follow these instructions:
 Make sure you are in the master branch on your computer to do so
 2. Then push your ENTIRE project to the branch by the command
 
-`git add ."`
+`git add .`
 
 `git commit -am "message for changes"`
 
